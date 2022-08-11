@@ -1,0 +1,82 @@
+[
+    {
+        "name" : "Julian",
+        "adress" : "0xC49E3f389D78A84A18aD74870FB85824a22a12C9" ,
+        "balance" : ""
+    },
+    {
+        "name" : "Jakub",
+        "adress" : "0x89a75dE93830FD09e2B4a694CDf0714dCdFE38e7",
+        "balance" : "" 
+    },
+    {
+        "name" : "Lukasz",
+        "adress" : "0xe4Cd56f91Bc79cC610AEfB1bE92b07BB5b6F2e30" ,
+        "balance" : ""
+    },
+    {
+        "name" : "Marek",
+        "adress" : "0xeFab1eB78ffF1db84180A90964300FDA7533b186" ,
+        "balance" : ""
+    },
+    {
+        "name" : "Grzesiek",
+        "adress" : "0x907F988126Fd7e3BB5F46412b6Db6775B3dC3F9b",
+        "balance" : "" 
+    },
+    {
+        "name" : "Ania",
+        "adress" : "0x5C993b3Eb5C4c1f7Fe822CBAA30674c8D58ff61C",
+        "balance" : ""
+    },
+    {
+        "name" : "Adrian W",
+        "adress" : "0xb9d9860f8835a486078eb49F5b0c0Dc4f86a444e" ,
+        "balance" : ""
+    },
+    {
+        "name" : "Ada",
+        "adress" : "0x5FDF852a6E0F12E448E5505c98e884370c586299" ,
+        "balance" : ""
+    },
+    {
+        "name" : "Paweł",
+        "adress" : "0xe2DF73eb63999c0a3f47d19ec3BAaa567D0D1982",
+        "balance" : "" 
+    },
+    {
+        "name" : "Filip",
+        "adress" : "0xE2328a0A7393914b2f8C4751b709Aa39fE9b7C2f",
+        "balance" : "" 
+    },
+    {
+        "name" : "Paweł M",
+        "adress" : "0xBF4D711071Cd9c0402387DeCDD53d3babDb82Bf6" ,
+        "balance" : ""
+    },
+    {
+        "name" : "Dawid",
+        "adress" : "0x5DE476DfB874BcAdA0E025257299370d9F6C7382",
+        "balance" : "" 
+    },
+    {
+        "name" : "Marta",
+        "adress" : "0xd932de349A0e583b27CC98cC5025a4960C4dA5E1",
+        "balance" : "" 
+    },
+    {
+        "name" : "Jacek",
+        "adress" : "0x9cDbd1eB824dd176f1bB5BfBe718E844264e3bfE",
+        "balance" : "" 
+    },
+    {
+        "name" : "Grzesiek F",
+        "adress" : "0x4121263add0FA74AC9e4638D55ae202be2a8872e" ,
+        "balance" : ""
+    },
+    {
+        "name" : "Barni",
+        "adress" : "0x7d098D7F7f7f5ddB17a6afdD90d491F509437B49",
+        "balance" : "" 
+    }
+]
